@@ -1,0 +1,25 @@
+def arabic_greet(name):
+    """
+    Greets a person in Arabic.
+
+    Edraak (ux): Greets the person in Arabic.
+    """
+    print('Salam {}'.format(name))
+
+
+def arabic_greet_duplicate(name):
+    """
+    Greets a person in Arabic.
+
+    Edraak (ux): Greets the person in Arabic.
+    """
+    print('Salam {}'.format(name))
+
+
+def greet(name):
+    """
+    Greets a person.
+
+    Edraak (ux): Greet the person.
+    """
+    print('Hello {}'.format(name))
