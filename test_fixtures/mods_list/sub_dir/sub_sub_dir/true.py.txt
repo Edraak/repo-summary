@@ -1,0 +1,7 @@
+def true():
+    """
+    Do nothing, successfully.
+
+    Edraak (bash): Mimics the bash `true` command.
+    """
+    pass
